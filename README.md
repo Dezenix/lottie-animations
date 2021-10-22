@@ -17,7 +17,8 @@
 <a href="https://github.com/Dezenix/lottie-animations/pulls"><img src="https://img.shields.io/github/issues-pr/Dezenix/lottie-animations?color=brightgreen"></a>
 <a href="https://github.com/Dezenix/lottie-animations/pulls?q=is%3Apr+is%3Aclosed"><img src="https://img.shields.io/github/issues-pr-closed-raw/Dezenix/lottie-animations?color=0059b3"></a>
 <!-- <a href="https://github.com/Dezenix/lottie-animations/issues"><img src="https://img.shields.io/github/issues/Dezenix/lottie-animations?color=0059b3"></a> -->
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  
 </div>
 
 ## ⚒️ Contribution Guidelines
