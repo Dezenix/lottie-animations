@@ -1,6 +1,7 @@
 <h1 align="center">Lottie-Animations</h1>
 
-![lottie animations](https://user-images.githubusercontent.com/79747022/138317420-facd619e-7b0d-43a7-b795-6a22cd561a8f.png)
+![17](https://user-images.githubusercontent.com/79747022/151586444-ebb2b746-0e4f-4a94-b9c6-0ef0e656959e.png)
+
 
 <div align="center">
 
@@ -43,4 +44,5 @@ Please note that Open Source Design has a [Contributor Code of Conduct](https://
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE) © Dezenix
 
-![thank you](https://user-images.githubusercontent.com/79747022/138317532-66147985-cce5-4212-ace6-41a8dbc1d1d0.png)
+![t](https://user-images.githubusercontent.com/79747022/151586475-a7b3bea3-828f-4d0f-bb2d-c69f6cfed338.png)
+
